@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95023c6-b46b-4f8f-980f-eb5fb6b93666" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_09_2023_10_39_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_09_2023_10_39_[Changes]1/shelved.patch" afterDir="false" />
+    <list default="true" id="d95023c6-b46b-4f8f-980f-eb5fb6b93666" name="Changes" comment="changes from main merge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -23,10 +21,24 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="addTextGood" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GordieFilin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9ad48ad2-0198-4a8b-b22c-00792a8412b4" />
+        <option name="url" value="https://github.com/GordieFilin/startSeleniumQA20.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -41,7 +53,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging addTextGood",
+    "git-widget-placeholder": "New-Branch-HW2",
     "onboarding.tips.debug.path": "C:/QA Projects/startSeleniumQA20/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -75,7 +87,20 @@
       <option name="presentableId" value="Default" />
       <updated>1693330818810</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes from main merge">
+      <option name="closed" value="true" />
+      <created>1693556006235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693556006235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes from main merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes from main merge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
