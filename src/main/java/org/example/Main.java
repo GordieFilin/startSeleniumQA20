@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println("Main changes");
 
+        System.out.println("good");
+
         System.out.println("New string in master");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
